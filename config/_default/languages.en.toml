@@ -11,15 +11,15 @@ title = ""
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-description = "My awesome website"
+description = "Fine Grind Games"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
 name = "FINE GRIND GAMES"
-email = "youremail@example.com"
+email = "contact@finegrindgames.com"
 image = "https://cdn.bsky.app/img/avatar/plain/did:plc:qj6g3m3k4ugchp6jvv6adau5/bafkreig2sr4v7srfgafuhvbn5boix55e35zl7wndevuwdizuxq5evwa6aa@jpeg"
 imageQuality = 96
-headline = "<br>Indie game developer based in Katowice, Poland.<br/><br>Currently making a roguelike game with RTS elements.<br/><br>If you are interested, feel free to contact us or give us a follow!<br/>"
+ # headline = ""
 bio = ""
    links = [
      { email = "mailto:contact@finegrindgames.com" },

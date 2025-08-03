@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>finegrindgames.com/</loc>
+    <loc>//localhost:1313/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
