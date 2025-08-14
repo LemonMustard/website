@@ -15,9 +15,9 @@ description = "Fine Grind Games"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-name = "FINE GRIND GAMES"
+# name = "FINE GRIND GAMES"
 email = "contact@finegrindgames.com"
-image = "https://cdn.bsky.app/img/avatar/plain/did:plc:qj6g3m3k4ugchp6jvv6adau5/bafkreig2sr4v7srfgafuhvbn5boix55e35zl7wndevuwdizuxq5evwa6aa@jpeg"
+image = "finegrind.png"
 imageQuality = 96
  # headline = ""
 bio = ""
