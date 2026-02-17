@@ -1,4 +1,4 @@
 **Indie game developer based in Katowice, Poland. 
-<br>Currently making a roguelike game with RTS elements.</br>
+<br>Currently making a roguelike autobattler.</br>
 If you are interested, feel free to contact us or give us a follow!**
 <br></br>
