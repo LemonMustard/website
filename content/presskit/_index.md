@@ -18,7 +18,7 @@ title: DUNGEONERY PRESSKIT
      <strong>Publisher</strong>
     <p>Self-Publishing</p>
   <h2 id="links">LINKS</h2>
- <p> {{< button href="#button" target="_self" >}}
+ <p> {{< button href="https://drive.google.com/drive/folders/11wp5s_pLkAYWhyVztNku0ALD9XHLOBFx?usp=sharing">}}
 Download Images/Thumbnails
 {{< /button >}}</p>
   {{< button href="https://store.steampowered.com/app/4644480/Dungeonery">}}
