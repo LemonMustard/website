@@ -7,7 +7,7 @@ title: DUNGEONERY PRESSKIT
 <div>
   <h2 id="description">DESCRIPTION</h2>
   <p>
-      Dungeonery is a roguelike autobattler in which you crawl your way through the dungeon, fight monsters, build your team and discover crazy synergies.
+      Dungeonery is a roguelike autobattler where you crawl your way through the dungeon, fight monsters, build your team and discover crazy synergies.
   </p>
     <strong>Genres</strong>
     <p>Autobattler, Roguelike, Dungeon Crawler, Strategy</p>
@@ -49,16 +49,42 @@ STEAM PAGE
 * Navigate the dungeon by choosing between multiple paths, each leading either to combat, a shop, a camp, or a special event.
 * Play it safe or welcome the challenge - the choice is yours. But remember, the tougher the room, the greater the rewards to strengthen your team.
 * Watch your progress carefully. Every step deeper into the dungeon gets you closer to the boss fight, so better be prepared!
-
+---
+SCREENSHOTS
+---
+{{< gallery >}}
+  <img src="https://i.imgur.com/fUqrxok.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://i.imgur.com/rXDToAb.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://i.imgur.com/K9kyhV0.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://i.imgur.com/EnKbng1.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://i.imgur.com/E6UQOpR.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
 
 ---
 IMAGES
 ---
 {{< gallery >}}
-  <img src="gallery/01.jpg" class="grid-w33" />
-  <img src="imgur.com/a/rf1IJbD" class="grid-w33" />
-
-<img href="i.imgur.com/a/rf1IJbD">
-<img src="imgur.com/a/rf1IJbD">
+<img src="https://i.imgur.com/t8e3yYE.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/3lqf1n5.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/yK32Zvi.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/EM6nscN.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/10v1t9V.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/ZtRoayL.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/G06JkZj.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/el0o0oK.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/Jnyfj4x.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/jBPjQB5.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/rTUnxig.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/ENY1BEB.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/YXbyzvj.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/7g9Y9Ob.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/iQ2mqll.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/RfG9Iiy.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/aIhz6OB.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/9xhb8by.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/dWLxY76.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/XEYT0wF.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/smXOsOy.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/IpoEgUg.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 </div>
