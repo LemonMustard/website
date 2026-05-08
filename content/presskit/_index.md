@@ -69,7 +69,7 @@ IMAGES
 <img src="https://i.imgur.com/yK32Zvi.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="https://i.imgur.com/EM6nscN.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="https://i.imgur.com/10v1t9V.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="https://i.imgur.com/ZtRoayL.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://i.imgur.com/GSBkPgh.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="https://i.imgur.com/G06JkZj.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="https://i.imgur.com/el0o0oK.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="https://i.imgur.com/Jnyfj4x.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
