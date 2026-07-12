@@ -17,7 +17,7 @@ title: DUNGEONERY PRESSKIT
      <p>Fine Grind Games based in Poland. We're a married couple pursuing our dream of creating a game together!</p>
      <p>TEAM:</p>
      <p>Roch Karwacki - programming, game design, music.</p>
-     <p>Magdalena Ardeńska - art, game design.-</p>
+     <p>Magdalena Ardeńska - art, game design.</p>
      <strong>Publisher</strong>
     <p>Self-Publishing</p>
   <h2 id="links">LINKS</h2>
