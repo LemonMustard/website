@@ -7,14 +7,17 @@ title: DUNGEONERY PRESSKIT
 <div>
   <h2 id="description">DESCRIPTION</h2>
   <p>
-      Dungeonery is a roguelike autobattler where you crawl your way through the dungeon, fight monsters, build your team and discover crazy synergies.
+      Dungeonery is a roguelike autobattler where you lead a hand-picked team of heroes through a dangerous dungeon. Forge unstoppable synergies, outsmart your foes with tactical choices, and show the dungeon master who’s boss!
   </p>
     <strong>Genres</strong>
     <p>Autobattler, Roguelike, Dungeon Crawler, Strategy</p>
      <strong>Platform</strong>
     <p>PC (Windows, Linux)</p>
      <strong>Developer</strong>
-     <p>Fine Grind Games based in Poland.</p>
+     <p>Fine Grind Games based in Poland. We're a married couple pursuing our dream of creating a game together!
+     TEAM:
+     Roch Karwacki - programming, game design, music.
+     Magdalena Ardeńska - art, game design.-</p>
      <strong>Publisher</strong>
     <p>Self-Publishing</p>
   <h2 id="links">LINKS</h2>
@@ -30,13 +33,11 @@ STEAM PAGE
 
 * Choose from a varied cast of heroes. You can stick with the classics, like a tanky paladin, an archer raining death from afar and a rogue for some sneaky shenaningans behind enemy lines. Or mix things up: Let a sultry vampire charm your foes, set them ablaze with dragonbreath or confuse them with... a jack in the box?
 * Level up and upgrade your heroes to unleash their full potential. Choose your favorites wisely as resources are scarce.
-* Someone not pulling their weight? Swap them out to try something different.
-
 <strong>Dress for success</strong>
 
 * Discover hundreds of unique items and relics that transform your build into something gloriously broken.
 * Every foe has its flaws, and it's your job to exploit them. Those mushroom guys? They look quite flammable. Equipping your barbarian with the fireblade might ensure a crispy victory.
-* Mix and match items to uncover wild synergies. Turn your whole team into snails to supercharge your snailblade-wielding paladin. Grow stronger by hoarding gold with greed-based relics. Wield cursed items for immense power… while the rest of your team pays the price
+* Mix and match items to uncover wild synergies. Turn your whole team into snails to supercharge your snailblade-wielding paladin. Grow stronger by hoarding gold with greed-based relics. Wield cursed items for immense power… while the rest of your team pays the price!
 
 <strong>Strategize and control the battlefield</strong>
 
@@ -53,21 +54,27 @@ STEAM PAGE
 SCREENSHOTS
 ---
 {{< gallery >}}
-  <img src="https://i.imgur.com/fUqrxok.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="https://i.imgur.com/rXDToAb.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="https://i.imgur.com/K9kyhV0.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="https://i.imgur.com/EnKbng1.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="https://i.imgur.com/E6UQOpR.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/ieTFQ1x.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/s97vmWq.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/emO7h1r.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/oMH50hZ.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/vtkvP1i.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/FA9HL3L.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/RjPn0kF.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/gYvEf7I.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/svnlGdC.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/065DCsL.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/kzMYKIx.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 
 ---
 IMAGES
 ---
 {{< gallery >}}
-<img src="https://i.imgur.com/t8e3yYE.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="https://i.imgur.com/3lqf1n5.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://imgur.com/Mw8jMdv.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://imgur.com/80nkp2v.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="https://i.imgur.com/yK32Zvi.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="https://i.imgur.com/EM6nscN.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="https://imgur.com/bukaz7N.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="https://i.imgur.com/10v1t9V.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="https://i.imgur.com/GSBkPgh.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="https://imgur.com/NiBBD9Q.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
