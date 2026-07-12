@@ -14,10 +14,10 @@ title: DUNGEONERY PRESSKIT
      <strong>Platform</strong>
     <p>PC (Windows, Linux)</p>
      <strong>Developer</strong>
-     <p>Fine Grind Games based in Poland. We're a married couple pursuing our dream of creating a game together!
-     TEAM:
-     Roch Karwacki - programming, game design, music.
-     Magdalena Ardeńska - art, game design.-</p>
+     <p>Fine Grind Games based in Poland. We're a married couple pursuing our dream of creating a game together!</p>
+     <p>TEAM:</p>
+     <p>Roch Karwacki - programming, game design, music.</p>
+     <p>Magdalena Ardeńska - art, game design.-</p>
      <strong>Publisher</strong>
     <p>Self-Publishing</p>
   <h2 id="links">LINKS</h2>
@@ -33,6 +33,7 @@ STEAM PAGE
 
 * Choose from a varied cast of heroes. You can stick with the classics, like a tanky paladin, an archer raining death from afar and a rogue for some sneaky shenaningans behind enemy lines. Or mix things up: Let a sultry vampire charm your foes, set them ablaze with dragonbreath or confuse them with... a jack in the box?
 * Level up and upgrade your heroes to unleash their full potential. Choose your favorites wisely as resources are scarce.
+
 <strong>Dress for success</strong>
 
 * Discover hundreds of unique items and relics that transform your build into something gloriously broken.
