@@ -56,7 +56,7 @@ SCREENSHOTS
   <img src="https://imgur.com/ieTFQ1x.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="https://imgur.com/s97vmWq.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="https://imgur.com/emO7h1r.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="https://imgur.com/oMH50hZ.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/mVlcjim.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="https://imgur.com/q2jvoOx.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="https://imgur.com/vtkvP1i.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="https://imgur.com/FA9HL3L.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
