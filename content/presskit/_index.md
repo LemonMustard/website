@@ -6,9 +6,7 @@ title: DUNGEONERY PRESSKIT
 <img src= "capsule.png">
 <div>
   <h2 id="description">DESCRIPTION</h2>
-  <p>
-      Dungeonery is a roguelike autobattler where you lead a hand-picked team of heroes through a dangerous dungeon. Forge unstoppable synergies, outsmart your foes with tactical choices, and show the dungeon master who’s boss!
-  </p>
+  <p>Dungeonery is a roguelike autobattler where you lead a hand-picked team of heroes through a dangerous dungeon. Forge unstoppable synergies, outsmart your foes with tactical choices, and show the dungeon master who’s boss!</p>
     <strong>Genres</strong>
     <p>Autobattler, Roguelike, Dungeon Crawler, Strategy</p>
      <strong>Platform</strong>
@@ -50,13 +48,17 @@ STEAM PAGE
 * Play it safe or welcome the challenge - the choice is yours. But remember, the tougher the room, the greater the rewards to strengthen your team.
 * Watch your progress carefully. Every step deeper into the dungeon gets you closer to the boss fight, so better be prepared!
 ---
+TRAILER
+---
+{{< youtubeLite id="mCWFhp2oXvg" label="Dungeonery trailer" >}}
+---
 SCREENSHOTS
 ---
 {{< gallery >}}
-  <img src="https://imgur.com/ieTFQ1x.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="https://imgur.com/s97vmWq.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="https://imgur.com/mVlcjim.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/s97vmWq.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="https://imgur.com/oMH50hZ.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://imgur.com/ieTFQ1x.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="https://imgur.com/q2jvoOx.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="https://imgur.com/vtkvP1i.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="https://imgur.com/FA9HL3L.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
